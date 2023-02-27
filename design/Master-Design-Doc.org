@@ -1,0 +1,46 @@
+* Overview
+
+** Concepts
+
+*** Slots & Mergers
+
+This game is inspired by the slots and merger mechanisms from indonesia. The goal is to bring those mechanisms into a new game frame work and adjust how the slots and mergers themselves work and make them a central aspect of the game.
+
+Rather than a specific slot mechanism to limit your number of companies it will be instead a purchasing decision via "buying" employees in a blind bid.
+
+Mergers are done in a set of narrowing blind bids. N, N-1, N-2 until heads up and 1 player wins. Players may willingly drop from a round i.e. 4p -> 2p if one of the remaining players drops. 
+
+*** Research
+**** Company Size upgrades
+- 1/2/3 size which have 2/4/6 slot sizings. Companies max at 4 size mergings.
+
+*** Employee types
+Employees come in two types "Tech" and "Design" represented by Blue and Orange cubes, respectively. These employees are used to launch new products and to expand market share via marketing actions.
+
+Employees are an important resource and each turn before hiring players must do a blind bid on what wages they will offer for new employees.
+
+
+*** Company Requirement Framework
+
+Starting a company requires you to pay the tech requirements in terms of "employees".
+
+| Era | Tech Req | Design Req |
+|-----+----------+------------|
+|   1 |        1 |          1 |
+|   1 |        0 |          2 |
+|   1 |        2 |          0 |
+|-----+----------+------------|
+|   2 |        2 |          1 |
+|   2 |        1 |          2 |
+|   2 |        0 |          3 |
+|   2 |        3 |          0 |
+|-----+----------+------------|
+|   3 |        2 |          2 |
+|   3 |        3 |          1 |
+|   3 |        1 |          3 |
+|   3 |        4 |          0 |
+|   3 |        0 |          4 |
+|-----+----------+------------|
+
+ 
+ 
